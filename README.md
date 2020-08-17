@@ -23,3 +23,5 @@ En el transcurso de cualquier tarea, las maquinas envian cada 5 segundos, un inf
 
 > Los errores aparecen en los informes de estado.
 
+## Máquina de Estado
+![./Recursos/maquinaestado.png](https://github.com/TobiasMoscoso/TP_MaquinadeEstado-ProtocoloLastOrder/blob/master/Recursos/maquinaestado.png)
