@@ -1,4 +1,4 @@
-# TP_MaquinadeEstado-ProtocoloLastOrder
+# TP_MaquinadeEstado-SistemaLastOrder
 Un protocolo de comunicación entre maquinas y servidor, realizado con máquina de estado. Cada maquina puede enviar y recibir información, la cual compartirá con el servidor.
 ## Memoria Descriptiva
 El sistema "Last Order", se encarga de la comunicación entre un servidor y varias
