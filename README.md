@@ -25,3 +25,16 @@ En el transcurso de cualquier tarea, las maquinas envian cada 5 segundos, un inf
 
 ## Máquina de Estado
 ![./Recursos/maquinaestado.png](https://github.com/TobiasMoscoso/TP_MaquinadeEstado-ProtocoloLastOrder/blob/master/Recursos/maquinaestado.png)
+
+## Lista de Productos
+Estos son los productos que fueron subidos al archivo listado.dat. Estos datos se pueden usar a modod de prueba en la version ejecutable de LastOrder.
+
+| TipoProducto | TipoCaja | Estante | Fila | Columna |
+|-----|-------|-------|------|----|
+| LED32SAMSUNG | D | 23 | 12 | 45 |
+| LED42LGCURVO | A | 34 | 20 | 10 |
+| LGK10BLANCO | C |	12 | 2 | 30 |
+| SAMSUNGS9BLANCO | C | 65 | 3 | 12 |
+| ALCATELONEROJO | B | 45 | 10 | 20 |
+| MONITORLG4K | D |	78 | 23 | 35 |
+| NOTEBOOKDELLI7 | A | 81 | 10 | 50 |
