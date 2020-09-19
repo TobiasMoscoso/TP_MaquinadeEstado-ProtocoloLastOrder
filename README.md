@@ -27,7 +27,7 @@ En el transcurso de cualquier tarea, las maquinas envian cada 5 segundos, un inf
 ![./Recursos/maquinaestado.png](https://github.com/TobiasMoscoso/TP_MaquinadeEstado-ProtocoloLastOrder/blob/master/Recursos/maquinaestado.png)
 
 ## Lista de Productos
-Estos son los productos que fueron subidos al archivo listado.dat. Estos datos se pueden usar a modod de prueba en la version ejecutable de LastOrder.
+Estos son los productos que fueron subidos al archivo listado.dat. Estos datos se pueden usar a modo de prueba en la versión ejecutable de LastOrder.
 
 | TipoProducto | TipoCaja | Estante | Fila | Columna |
 |-----|-------|-------|------|----|
